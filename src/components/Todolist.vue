@@ -40,7 +40,7 @@ export default {
         completed: false,
       }) 
 
-      this.newTodo = '' 
+      this.newTodo = ''
       this.idForTodo++
     }
   }
